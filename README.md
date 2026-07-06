@@ -133,8 +133,8 @@ const praveenRaj = {
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | B.Tech — Computer Science & Engineering | SRM Institute of Science and Technology, Chennai | Expected 2027 | CGPA: 7.5 |
-| Class XII (12th) | VELAMMAL BODHI RESIDENTIAL SCHOOL | 2020 | 71% |
-| Class X (10th) | VELAMMAL BODHI RESIDENTIAL SCHOOL | 2022 | 80% |
+| Class XII (12th) | VELAMMAL BODHI RESIDENTIAL SCHOOL | 2022 | 72% |
+| Class X (10th) | VELAMMAL BODHI RESIDENTIAL SCHOOL | 2020 | 80% |
 
 </div>
 
