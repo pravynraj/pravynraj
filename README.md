@@ -107,6 +107,7 @@ const praveenRaj = {
 | **[Placement Cell Management System](https://github.com/pravynraj)** | MERN Stack (React, Node.js, Express, MongoDB) | Centralized platform connecting **students, placement officers, and recruiters** to streamline the entire campus recruitment process |
 | **[Railway Passenger Booking System](https://github.com/pravynraj)** | Python, Machine Learning, Data Analysis | ML-driven system analyzing booking patterns and train occupancy from **IRCTC**-style data to power smart seat recommendations |
 
+
 </div>
 
 ## 🏅  Certifications
@@ -118,6 +119,7 @@ const praveenRaj = {
 | ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services — Apr 2026 |
 | 🧠 | **MATLAB Machine Learning** | Certification — Sept 2025 |
 | 🔶 | **Oracle Certified Foundations Associate** | Oracle — 2025 |
+|  * |  ** AWS Solution Architect**               | AWS - 2026 |
 
 </div>
 
