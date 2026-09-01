@@ -139,7 +139,7 @@ const praveenRaj = {
 🧠 Deep Learning        → LSTM, Time-Series Forecasting, Model Optimization
 ☁️ Cloud & DevOps       → AWS Services, Deployment Pipelines
 🏗️ System Design        → Scalable Backend Architecture
-🔗 Advanced MERN         → Performance, State Management at Scale
+🔗 Advanced MERN         → Performance, State Management at scale
 ```
 
 ## 📫 Connect With Me
