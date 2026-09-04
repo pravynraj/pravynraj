@@ -101,7 +101,7 @@ const praveenRaj = {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Real-Time Network Jitter Spike Prediction (LSTM)](https://github.com/pravynraj)** | Python, LSTM, Deep Learning, Custom UDP Data Pipeline | Achieved **88.44% accuracy** and **100% recall** in predicting future network jitter spikes using a custom UDP-based data collection system |
+| **[Real-Time Network Jitter Spike Prediction (LSTM)](https://github.com/pravynraj)** | Python, LSTM, Deep Learning, Custom UDP Data Pipeline | Achieved **92.44% accuracy** and **100% recall** in predicting future network jitter spikes using a custom UDP-based data collection system |
 | **[Placement Cell Management System](https://github.com/pravynraj)** | MERN Stack (React, Node.js, Express, MongoDB) | Centralized platform connecting **students, placement officers, and recruiters** to streamline the entire campus recruitment process |
 | **[Quantum-key-distribution-under-Eavesdropping-A-simulation--Based-analysis](https://github.com/pravynraj)** |  Quantum Key Distribution ,  Qiskit ,  Python ,  Streamlit , Matplotlib,  Quantum Cryptography | Python-based simulation of BB84 Quantum Key Distribution to analyze eavesdropping and communication security |
 
