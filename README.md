@@ -115,9 +115,8 @@ const praveenRaj = {
 | 🎯 | Achievement | Details |
 |---|---|---|
 | ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services — Apr 2026 |
-| 🧠 | **MATLAB Machine Learning** | Certification — Sept 2025 |
 | 🔶 | **Oracle Certified Foundations Associate** | Oracle — 2025 |
-|  * |  ** AWS Solution Architect**               | AWS - 2026 |
+|  🧠 |  **AWS Solution Architect**               | AWS - 2026 |
 
 </div>
 
