@@ -102,7 +102,8 @@ const praveenRaj = {
 | Project | Stack | Highlights |
 |---|---|---|
 | **[AI Assistant Observability & Evaluation Platform](https://github.com/pravynraj/ai-observability-platform)** | Python, FastAPI, React, TypeScript, PostgreSQL, Docker | Built a **full-stack observability platform** with automatic trace-ID generation, real-time latency/token/cost tracking, and a live dashboard for monitoring AI assistant requests end-to-end |
-| **[Placement Cell Management System](https://github.com/pravynraj)** | MERN Stack (React, Node.js, Express, MongoDB) | Centralized platform connecting **students, placement officers, and recruiters** to streamline the entire campus recruitment process |
+| **[Secure Multi-Tenant RAG](https://github.com/pravynraj)** | Python, FastAPI, PostgreSQL, Qdrant, JWT, Docker | Secure **multi-tenant Retrieval-Augmented Generation (RAG)** API with tenant-isolated vector retrieval, role-based ACL validation, JWT authentication, and retrieval auditing |
+
 | **[Quantum-key-distribution-under-Eavesdropping-A-simulation--Based-analysis](https://github.com/pravynraj)** |  Quantum Key Distribution ,  Qiskit ,  Python ,  Streamlit , Matplotlib,  Quantum Cryptography | Python-based simulation of BB84 Quantum Key Distribution to analyze eavesdropping and communication security |
 
 
